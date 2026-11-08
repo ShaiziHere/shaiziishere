@@ -1,0 +1,9 @@
+{
+  "name": "Shaizi Is Here",
+  "short_name": "Shaizi",
+  "description": "Official Portfolio of Shaizi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816"
+}
